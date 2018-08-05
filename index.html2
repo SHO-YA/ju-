@@ -190,7 +190,8 @@ onclick="alert('Hello,Osamu!');">
 <input type="button" value="花子"onclick="someone('花子');">
              
              
-
+             
+             
              
              
              
